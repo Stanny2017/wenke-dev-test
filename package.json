@@ -9,7 +9,8 @@
     "postinstall": "npm run test"
   },
   "bin": {
-    "wenke-dev": "bin/wenke-dev"
+    "wenke-dev": "bin/wenke-dev",
+    "jest": "./node_modules/bin/jest"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
