@@ -10,7 +10,7 @@
   },
   "bin": {
     "wenke-dev": "bin/wenke-dev",
-    "jest": "./node_modules/bin/jest"
+    "jest": "./node_modules/.bin/jest"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
